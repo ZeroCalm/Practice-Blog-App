@@ -12,7 +12,7 @@ class App extends Component {
         <Navbar />
         <Header />
         <Content />
-        <Footer />
+        <Footer />      
      </div> 
    );
   }
