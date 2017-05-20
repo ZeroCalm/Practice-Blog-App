@@ -36,7 +36,7 @@ class App extends Component {
 
     
   
-    <header className="intro-header">
+    <header className="intro-header headerImage">
         <div className="container">
             <div className="row">
                 <div className="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -147,9 +147,9 @@ class App extends Component {
             </div>
         </div>
     </footer>
-   </div> 
-    );
-  }
+  </div> 
+  );
+}
 }
 
 export default App;
